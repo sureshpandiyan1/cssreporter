@@ -108,4 +108,4 @@ file name - css_complete_report.txt
 
  # Copyright & License
 
- Suresh P @ 2022 | cssreporter | MIT
+ Suresh P @ 2022 | cssreporter | Unlicense
